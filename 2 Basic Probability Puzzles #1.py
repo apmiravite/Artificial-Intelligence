@@ -1,14 +1,13 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
-from fractions import Fraction
 
-d1=list(map(int,input().split()))
-d2=list(map(int,input().split()))
-#print(d1, d2)
+from fractions import Fraction
+d1=[i+1 for i in range(6)]
+d2=[i+1 for i in range(6)]
 
 counter=int(0)
 throws=int(0)
-for i in d1:
-    for j in d2:
+for i in range(6):
+    for j in range(6):
         sum_toss=0
         sum_toss=d1[i-1]+d2[j-1]
         #print(sum_toss)
