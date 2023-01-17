@@ -1,1 +1,1 @@
-# Artificial-Intelligence
+# Probability and Statistics - Foundations
