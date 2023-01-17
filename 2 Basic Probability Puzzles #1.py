@@ -1,3 +1,9 @@
+#https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem
+
+# Task
+# In a single toss of 2 fair (evenly-weighted) 6-sided dice,
+# find the probability of that their sum will be at most 9.
+
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
 from fractions import Fraction
