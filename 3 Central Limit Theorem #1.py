@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/the-central-limit-theorem-2/problem?isFullScreen=true
+#https://www.hackerrank.com/challenges/the-central-limit-theorem-1/problem?isFullScreen=true
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 import statistics
